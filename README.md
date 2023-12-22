@@ -1,4 +1,6 @@
 # infoinfopedia_Lab6
+# Youtube : https://youtu.be/9khAHBpDk6Y
+
 * Kelompok : 
   * Najwa Afifi Situmorang (221401116)
   * Lukman Nur Hakim (221401074)
